@@ -16,13 +16,13 @@ This repo is part of my personal learning journey as I build towards a career in
 Each room has its own folder with a dedicated `README.md` writeup.
 
 ---
-
 ### 🛣️ Learning Path: TryHackMe Pre-Security 
-📁Section Index
 
-| Section Name | Topic | Status | Link |
-|-----------|-------|--------|------|
-| `Introduction to Cyber Security` | Understand what is offensive and defensive security, and learn about careers available in cyber. | ✅ Completed | [View](./Introduction-to-Cyber-Security) |
+#### 📁 Section Index
+
+| Section Name                         | Topic                                                                 | Status       | Link                                      |
+|--------------------------------------|-----------------------------------------------------------------------|--------------|-------------------------------------------|
+| `Introduction to Cyber Security`     | Learn about offensive and defensive security, and explore cyber careers. | ✅ Completed | [View](./Introduction-to-Cyber-Security)  |
 
 *More being added regularly as I learn!*
 
