@@ -18,11 +18,11 @@ Each room has its own folder with a dedicated `README.md` writeup.
 ---
 
 ### 🛣️ Learning Path: TryHackMe Pre-Security 
-📁Room Index
+📁Section Index
 
-| Room Name | Topic | Status | Link |
+| Section Name | Topic | Status | Link |
 |-----------|-------|--------|------|
-| `Intro to Networking` | Networking Basics | ✅ Completed | [View](./Intro-to-Networking) |
+| `Introduction to Cyber Security` | Understand what is offensive and defensive security, and learn about careers available in cyber. | ✅ Completed | [View](./Introduction-to-Cyber-Security) |
 
 *More being added regularly as I learn!*
 
