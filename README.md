@@ -22,7 +22,7 @@ Each room has its own folder with a dedicated `README.md` writeup.
 
 | Section Name                         | Topic                                                                 | Status       | Link                                      |
 |--------------------------------------|-----------------------------------------------------------------------|--------------|-------------------------------------------|
-| `Introduction to Cyber Security`     | Learn about offensive and defensive security, and explore cyber careers. | ✅ Completed | [View](./Introduction-to-Cyber-Security)  |
+| `Introduction to Cyber Security`     | Learn about offensive and defensive security, and explore cyber careers. | ✅ Completed | [View]([./Introduction-to-Cyber-Security)  |
 
 *More being added regularly as I learn!*
 
