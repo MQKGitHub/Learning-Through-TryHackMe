@@ -20,9 +20,10 @@ Each room has its own folder with a dedicated `README.md` writeup.
 
 #### 📁 Section Index
 
-| Section Name                         | Topic                                                                 | Status       | Link                                      |
-|--------------------------------------|-----------------------------------------------------------------------|--------------|-------------------------------------------|
-| `Introduction to Cyber Security`     | Learn about offensive and defensive security, and explore cyber careers. | ✅ Completed | [View](https://github.com/MQKGitHub/Introduction-to-Cyber-Security) |
+| Section Name                         | Topic                                                                    | Link                                                                |
+|--------------------------------------|--------------------------------------------------------------------------|---------------------------------------------------------------------|
+| `Introduction to Cyber Security`     | Learn about offensive and defensive security, and explore cyber careers. | [View](https://github.com/MQKGitHub/Introduction-to-Cyber-Security) |
+| `Network Fundamentals`               | Learn the core concepts of how computers communicate with each other and types of network weaknesses. | [View](https://github.com/MQKGitHub/Network-Fundamentals) |
 
 *More being added regularly as I learn!*
 
