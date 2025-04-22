@@ -6,7 +6,7 @@ This repo is part of my personal learning journey as I build towards a career in
 
 ---
 
-## 🧠 What You'll Find Here
+### 🧠 What You'll Find Here
 
 - 🔐 **Writeups** for rooms I’ve completed  
 - 📝 **Key concepts** explained in my own words  
@@ -16,7 +16,7 @@ This repo is part of my personal learning journey as I build towards a career in
 Each room has its own folder with a dedicated `README.md` writeup.
 
 ---
-## 🛣️ Learning Path: TryHackMe Pre-Security 
+### 🛣️ Learning Path: TryHackMe Pre-Security 
 
 #### 📁 Section Index
 
@@ -30,7 +30,7 @@ Each room has its own folder with a dedicated `README.md` writeup.
 
 ---
 
-## 🤝 Why This Repo Exists
+### 🤝 Why This Repo Exists
 
 I'm not just doing this to learn for myself — I'm building a record I can share with others who are starting out, and eventually with employers to show my practical learning and dedication.
 
