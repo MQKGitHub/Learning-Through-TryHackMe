@@ -1,4 +1,4 @@
-# 🚀 Learning Through TryHackMe
+## 🚀 Learning Through TryHackMe
 
 Welcome to my collection of writeups and notes from my journey through [TryHackMe](https://tryhackme.com/), where I’m learning cyber security day by day.
 
@@ -16,7 +16,7 @@ This repo is part of my personal learning journey as I build towards a career in
 Each room has its own folder with a dedicated `README.md` writeup.
 
 ---
-### 🛣️ Learning Path: TryHackMe Pre-Security 
+## 🛣️ Learning Path: TryHackMe Pre-Security 
 
 #### 📁 Section Index
 
