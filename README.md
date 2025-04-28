@@ -23,6 +23,7 @@ Explore the foundational topics in cyber security. [View Pre-Security Path](http
 #### 🎓 Cyber Security 101
 Get started with the essentials of cyber security. [View Cyber Security 101 Path](https://github.com/MQKGitHub/Cyber-Security-101)
 
+
 *More paths coming soon as I continue my journey!*
 
 ---
