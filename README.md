@@ -8,12 +8,10 @@ This repo is part of my personal learning journey as I build towards a career in
 
 ### 🧠 What You'll Find Here
 
-- 🔐 **Writeups** for rooms I’ve completed  
-- 📝 **Key concepts** explained in my own words  
-- 🛠️ **Tools used** and commands practised  
-- 💡 **What I learned** and personal reflections
+- 🔗 **Links to Learning Paths** — Organised paths that guide you through various cyber security topics.  
+- 📖 **Writeups** — Each learning path links to detailed writeups for the rooms I've completed.  
 
-Each room has its own folder with a dedicated `README.md` writeup.
+Explore each path for more detailed writeups and resources!
 
 ---
 
