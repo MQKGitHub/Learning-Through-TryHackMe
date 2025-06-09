@@ -17,12 +17,8 @@ Explore each path for more detailed writeups and resources!
 
 ### 🛣️ Learning Paths
 
-#### 🛡️ Pre-Security Path
-Explore the foundational topics in cyber security. [View Pre-Security Path](https://github.com/MQKGitHub/Pre-Security)
-
-#### 🎓 Cyber Security 101
-Get started with the essentials of cyber security. [View Cyber Security 101 Path](https://github.com/MQKGitHub/Cyber-Security-101)
-
+#### 🛡️ [Pre-Security Path](https://github.com/MQKGitHub/Pre-Security) Exploring the foundational topics in cyber security.
+#### 🎓 [Cyber Security 101](https://github.com/MQKGitHub/Cyber-Security-101) Getting started with the essentials of cyber security.
 
 *More paths coming soon as I continue my journey!*
 
