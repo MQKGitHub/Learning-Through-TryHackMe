@@ -19,6 +19,8 @@ Explore each path for more detailed writeups and resources!
 
 #### 🛡️ [Pre-Security Path](https://github.com/MQKGitHub/Pre-Security) Exploring the foundational topics in cyber security.
 #### 🎓 [Cyber Security 101](https://github.com/MQKGitHub/Cyber-Security-101) Getting started with the essentials of cyber security.
+#### 🔒 [SOC Level 1](https://github.com/MQKGitHub/SOC-Level-1) Developing the skills of a Junior Security Analyst through real-world triage and investigation.
+
 
 *More paths coming soon as I continue my journey!*
 
